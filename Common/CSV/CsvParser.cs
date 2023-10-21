@@ -1,7 +1,7 @@
 ﻿using CsvHelper;
 using System.Globalization;
 
-namespace Common.CsvParser
+namespace Common.CSV
 {
     public abstract class CsvParser<T> : ICsvParser<T>
     {

@@ -1,6 +1,6 @@
 ﻿using Common.Validation;
 
-namespace Common.CsvParser
+namespace Common.CSV
 {
     public class RowValidator
     {

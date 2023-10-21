@@ -1,4 +1,4 @@
-﻿namespace Common.CsvParser
+﻿namespace Common.CSV
 {
     public interface ICsvParser<T>
     {
